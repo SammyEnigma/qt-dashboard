@@ -56,7 +56,10 @@
 
 - https://github.com/j2doll/dashboard-modern.ex
 
+- forked from yuq/dashboard-modern
+
 - RadarScanEffect
+
 
 
 
