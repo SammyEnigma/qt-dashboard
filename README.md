@@ -39,3 +39,30 @@
 - DejaVu Sans font : Copyright (c) Bitstream, Inc. All Rights Reserved.
 
 - Some code is fixed by j2doll.	
+
+## Similar projects
+
+### Qt automotive
+
+![](https://github.com/j2doll/qt-automotive/raw/master/image/auto.jpg)
+
+- Qt automotive is a example of Qt.
+
+### Modern Dashboard (ex)
+
+![](https://github.com/j2doll/dashboard-modern.ex/raw/master/markdown.data/modern.ani.gif)
+
+- RadarScanEffect
+
+
+
+
+
+
+
+
+
+
+
+
+
