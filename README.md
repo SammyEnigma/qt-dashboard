@@ -46,23 +46,17 @@
 
 ![](https://github.com/j2doll/qt-automotive/raw/master/image/auto.jpg)
 
+- https://github.com/j2doll/qt-automotive
+
 - Qt automotive is a example of Qt.
 
 ### Modern Dashboard (ex)
 
 ![](https://github.com/j2doll/dashboard-modern.ex/raw/master/markdown.data/modern.ani.gif)
 
+- https://github.com/j2doll/dashboard-modern.ex
+
 - RadarScanEffect
-
-
-
-
-
-
-
-
-
-
 
 
 
