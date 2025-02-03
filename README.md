@@ -32,6 +32,8 @@
 	- QtQuick.Extras 1.4
 	- QtQuick.Controls.Styles 1.4
 
+> This project is **not available in Qt6** due to QML version difference.
+
 ## License
 
 - This example is part of the examples of the Qt Toolkit. : Copyright (c) The Qt Company Ltd.
