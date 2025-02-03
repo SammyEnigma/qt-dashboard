@@ -33,7 +33,7 @@
 	- QtQuick.Controls.Styles 1.4
 
 ```diff
-- This project is **not available in Qt6** due to QML version difference.
+- This project is not available in Qt6 due to QML version difference.
 ```
 
 ## License
