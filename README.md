@@ -64,6 +64,17 @@
 
 - RadarScanEffect
 
+### dashApp.kr
+
+![](https://raw.githubusercontent.com/JayTwoLab/dashApp.kr/refs/heads/master/markdown/dashapp.png)
+
+- https://github.com/JayTwoLab/dashApp.kr
+
+- Automotive digital dashboard on Qt for Hyundai Elantra XD GLS
+
+- forked from [demitov/dashApp](https://github.com/demitov/dashApp)
+
+
 
 
 
