@@ -25,7 +25,7 @@
 
 ## Tech.
 
-- Qt QML
+- Qt QML (Qt 5.13)
 	- QtQuick 2.2
 	- QtQuick.Window 2.1
 	- QtQuick.Controls 1.4
