@@ -6,7 +6,7 @@
 
 - Qt dashboard is a example of Qt.
 
-- Qt\Examples\Qt-5.13.0\quickcontrols\extras\dashboard
+- `Qt\Examples\Qt-5.13.0\quickcontrols\extras\dashboard`
 
 ## How to test
 
@@ -46,17 +46,17 @@
 
 ### Qt automotive
 
-![](https://github.com/j2doll/qt-automotive/raw/master/image/auto.jpg)
+![](https://github.com/JayTwoLab/qt-automotive/raw/master/image/auto.jpg)
 
-- https://github.com/j2doll/qt-automotive
+- https://github.com/JayTwoLab/qt-automotive
 
 - Qt automotive is a example of Qt.
 
 ### Modern Dashboard (ex)
 
-![](https://github.com/j2doll/dashboard-modern.ex/raw/master/markdown.data/modern.ani.gif)
+![](https://github.com/JayTwoLab/dashboard-modern.ex/raw/master/markdown.data/modern.ani.gif)
 
-- https://github.com/j2doll/dashboard-modern.ex
+- https://github.com/JayTwoLab/dashboard-modern.ex
 
 - forked from yuq/dashboard-modern
 
