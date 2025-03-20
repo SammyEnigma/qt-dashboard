@@ -44,6 +44,10 @@
 
 - Some code is fixed by j2doll.	
 
+<br />
+
+--- 
+
 ## Similar projects
 
 ### Qt automotive
@@ -54,6 +58,10 @@
 
 - Qt automotive is a example of Qt.
 
+<br />
+
+--- 
+
 ### Modern Dashboard (ex)
 
 ![](https://github.com/JayTwoLab/dashboard-modern.ex/raw/master/markdown.data/modern.ani.gif)
@@ -63,6 +71,10 @@
 - forked from yuq/dashboard-modern
 
 - RadarScanEffect
+
+<br />
+
+--- 
 
 ### dashApp.kr
 
